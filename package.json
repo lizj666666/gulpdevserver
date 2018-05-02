@@ -1,0 +1,15 @@
+{
+  "name": "devserver",
+  "version": "1.0.0",
+  "description": "gulp dev server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lizhongjin",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.5.0"
+  }
+}
